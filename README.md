@@ -1,4 +1,3 @@
-
 # 🕒 Clock
 
 A simple **Clock** built using **HTML** and **CSS** only.  
