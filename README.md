@@ -1,4 +1,4 @@
-# 🕒 Clock
+# 🕒 Clock 1
 
 A simple **Clock** built using **HTML** and **CSS** only.  
 This project demonstrates how to use CSS animations and transformations to create a real-time analog clock directly in the browser — no JavaScript required!
